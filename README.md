@@ -1,0 +1,2 @@
+# SimpleVideoPlayer
+使用系统的AVPlayer框架实现一个简单的视频播放器
